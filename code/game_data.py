@@ -1,6 +1,7 @@
 
 
-level_1 = {
+level_1 = { 
+           
     'terrain': 'levels/1/level_1_terrain.csv',
     'coins': 'levels/1/level_1_coins.csv',
     'cactus': 'levels/0/level_0_cactus.csv',
